@@ -1,3 +1,24 @@
-/* fresh css */
+/* Style for "Solid red-orange Rectangle" */
 
-/* for first commit */
+.rectangle-2 {
+  width: 300px;
+  height: 250px;
+  background-color: #f05123;
+  margin: 20px auto;
+}
+
+/* Style for "Rectangle for "connect " */
+
+.rectangle-4 {
+  width: 103px;
+  height: 27px;
+  background-color: #f05123;
+}
+
+/* Style for "Rectangle outline, not filled in" */
+
+.rectangle-5 {
+  width: 300px;
+  height: 250px;
+  border: 10px solid #f05123;
+}
